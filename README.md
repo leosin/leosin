@@ -1,7 +1,7 @@
 <h3 align="center">
   <i>
     <samp>
-      :wave: Hi! I am <a href="https://ntnyq.com" target="_blank"><ins>ntnyq</ins></a>.
+      :wave: Hi! I am <a href="https://ntnyq.com" target="_blank"><ins>leosin</ins></a>.
     </samp>
   </i>
 </h3>
@@ -27,4 +27,4 @@
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ntnyq&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="ntnyq's github stats" >
+<img src="https://github-readme-stats.vercel.app/api?username=leosin&show_icons=true&theme=vue&include_all_commits=true&count_private=true" alt="leosin's github stats" >
